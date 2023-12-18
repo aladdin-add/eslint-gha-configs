@@ -1,4 +1,4 @@
-# eslint-gha-actions
+# eslint-gha-configs
 
 ## Purpose
 
